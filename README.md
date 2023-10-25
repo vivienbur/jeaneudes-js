@@ -1,8 +1,7 @@
 Les cours sont numérotés.  
 Exemple: 1-reductionPrix_ennonce.js
 
-Pour exécuter votre programme (ici le programme 1-reductionPrix_ennonce.js) :  
-python3 1-reductionPrix_ennonce.js
+Votre code va dans 'index.js'
 
-Vous pouvez lire la documentation de python ici :  
-https://www.w3schools.com/python/python_reference.asp
+Vous pouvez lire la documentation de JavaScript ici :  
+https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference
