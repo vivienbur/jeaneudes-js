@@ -20,3 +20,7 @@ for (nombreEssais = 1; nombreEssais < 11; nombreEssais++) {
 }
 
 // comment afficher le nombre aléatoire quand le joueur a perdu?
+if (nombreEssais > 10) {
+  console.log("PERDU!!!");
+  console.log("La solution était: " + nombreAleatoire);
+} 
